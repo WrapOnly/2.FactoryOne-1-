@@ -1,5 +1,5 @@
 package com.factory.one.iface;
 
-public interface CPU {
+public interface ICPU {
 	public abstract void workWithCPU();
 }
